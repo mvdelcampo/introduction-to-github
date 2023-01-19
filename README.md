@@ -254,8 +254,7 @@ Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de un
 
 '''
   mermaid
- 
- ---
+---
 title: Animal example
 ---
 classDiagram
@@ -281,4 +280,5 @@ classDiagram
         +bool is_wild
         +run()
     }
+    
 '''
