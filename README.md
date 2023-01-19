@@ -238,3 +238,16 @@ Check out these resources to learn more or get involved:
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+
+## Título
+### Subtítulo
+Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
+- Elemento 1
+- Elemento 2
+- Elemento 3
+Este es un ejemplo de texto que da entrada a una lista numerada:
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
+Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
